@@ -1,0 +1,17 @@
+https://www.machinelearningplus.com/nlp/gensim-tutorial/
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+
+https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/
+
+https://adventuresinmachinelearning.com/word2vec-keras-tutorial/
+
+https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial
+
+https://github.com/devyanipadwal/NLP_ASSIGNMENTS
+
+https://chatbotslife.com/how-to-create-an-intelligent-chatbot-in-python-c655eb39d6b1
+
+https://towardsdatascience.com/chatbots-are-cool-a-framework-using-python-part-1-overview-7c69af7a7439
+
+https://github.com/gowriaddepalli/DemoChatBot
